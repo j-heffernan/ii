@@ -3,10 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: iNQUISITIVE iPSEITY
+title: iNQUISITIVE iPSEITY 
 email: julesmhffn@gmail.com
-description: > # "Write an awesome description for your new site here. 
-This designer's story..."
+description: "This designer's story..." # "Write an awesome description for your new site here. 
 
 # ----------------------- #
 #    Jekyll & Plugins     #
