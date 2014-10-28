@@ -1,0 +1,45 @@
+<nav role="navigation" class="navbar navbar-default navbar-static-top">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a href="#" class="navbar-brand">Brand</a>
+    </div>
+    <!-- Collection of nav links and other content for toggling -->
+    <div id="navbarCollapse" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Messages</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Login</a></li>
+        </ul>
+    </div>
+</nav>
+Twitter Bootstrap Navbar with Search From
+Search form is very common component of the navbars and you have seen it on various website quite often. Search form can be placed inside the navbar using the class .navbar-form on the <form> element.
+ExampleTry this code »
+<nav role="navigation" class="navbar navbar-default">
+    <div class="navbar-header">
+        <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a href="#" class="navbar-brand">Brand</a>
+    </div>
+    <div id="navbarCollapse" class="collapse navbar-collapse">
+        <form role="search" class="navbar-form navbar-left">
+            <div class="form-group">
+                <input type="text" placeholder="Search" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+    </div>
+</nav>
