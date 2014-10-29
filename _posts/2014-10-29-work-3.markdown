@@ -1,9 +1,9 @@
 ---
 layout: default
-img: mysteryMan.png
+img: greenTomatoes.png
 category: work
-title: mysteryMan
+title: green
 description: |
-  <p class="lead">mysteryMan</p>
+  <p class="lead">greenTomatoes</p>
 
 ---
