@@ -1,14 +1,9 @@
 ---
 layout: default
-img: green_tomatoes.jpg
+img: cook_eat_share.png
 category: Work
-title: greenTomatoes:<br>
+title: graphicDesign:<br>
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="https://raw.githubusercontent.com/j-heffernan/ii/gh-pages/img/work/green_tomatoes.jpg">Death to the Stock
-  Photo</a></p>
-    <p class="lead">A special thanks to <a target="_blank"
-  href="https://github.com/j-heffernan/ii/blob/gh-pages/pages/work.html">Death to the Stock
-  Photo</a></p>
+  <p class="lead">gD <a target="_blank"</p>
 
 ---
