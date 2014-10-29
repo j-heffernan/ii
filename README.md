@@ -6,7 +6,7 @@ I needed some type of framework to build off as I have no experience with Jekyll
 
 If you'd like give me credit somewhere on your blog or tweet a shout out to @twnsndco, that would be pretty sweet.
 ## How to use
- - Place a image in `/img/services/`
+ - Place a image in `/img/work/`
  - Create posts to display your services. Use the follow as an example:
 
 ```txt
