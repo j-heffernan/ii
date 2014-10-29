@@ -2,7 +2,7 @@
 layout: default
 img: green_tomatoes.jpg
 category: Work
-title: Death to the Stock Photo:<br>Special Thanks
+title: greenTomatoes:<br>
 description: |
   <p class="lead">A special thanks to <a target="_blank"
   href="https://raw.githubusercontent.com/j-heffernan/ii/gh-pages/img/work/green_tomatoes.jpg">Death to the Stock
