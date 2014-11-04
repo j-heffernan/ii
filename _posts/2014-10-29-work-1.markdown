@@ -1,8 +1,8 @@
 ---
 layout: default
 img: cook_eat_share.png
-category: Work
-title: graphicDesign:<br>
+category: work
+title: graphicDesign<br>
 description: |
   <p class="lead"><a target="_blank"</p>
 
