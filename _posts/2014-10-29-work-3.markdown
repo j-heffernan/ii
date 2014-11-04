@@ -4,6 +4,6 @@ img: greenTomatoes.png
 category: work
 title: green
 description: |
-  <p class="lead">greenTomatoes</p>
+  <p class="lead"></p>
 
 ---
