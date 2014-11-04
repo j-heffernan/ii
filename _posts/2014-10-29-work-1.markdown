@@ -4,6 +4,6 @@ img: cook_eat_share.png
 category: Work
 title: graphicDesign:<br>
 description: |
-  <p class="lead">gD <a target="_blank"</p>
+  <p class="lead"><a target="_blank"</p>
 
 ---
