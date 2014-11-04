@@ -23,7 +23,7 @@ description: The description of the service
 View this 
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://github.com/j-heffernan/ii/blob/gh-pages/img/screenshot.png)
 
 ===
 The theme is based on [Landing Page](http://startbootstrap.com/templates/landing-page/)theme by [Start Bootstrap](http://startbootstrap.com/) & forked [here](https://github.com/swcool/landing-page-theme/).
