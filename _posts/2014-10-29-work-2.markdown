@@ -1,9 +1,9 @@
 ---
 layout: default
 img: ready.png
-category: Work
+category: work
 title: ready<br>
 description: |
-  <p class="lead">ready</p>
+  <p class="lead"></p>
 
 ---
